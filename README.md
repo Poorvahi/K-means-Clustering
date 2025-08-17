@@ -1,4 +1,6 @@
-# K-means-Clustering
+# K-means-Clustering 
+https://colab.research.google.com/drive/1w8YHMvjIuTnViL41v0LTiPoNGTjfMvDj?usp=sharing#scrollTo=2bpX3z1T90Kd
+
 Online Store Customer Segmentation (K-Means Clustering) :We identified 4 distinct customer groups that businesses can target with different marketing strategies (loyalty rewards, win-back campaigns, etc.), helping improve retention and revenue.
 Steps Performed:
 1. Feature Selection
